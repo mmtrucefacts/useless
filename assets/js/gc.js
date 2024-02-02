@@ -1,7 +1,7 @@
 const gameData = [
     { id: 0, title: "Games", link: "/" },
-    { id: 1, title: "Some games may be broken.", link: "/games/2048/" },
-    { id: 1, title: "Games may take up to 1 min to load.", link: "/games/2048/" },
+    { id: 1, title: "Some games may be broken and games may take up to 1 min to load.", link: "/games/2048/" },
+    { id: 1, title: "Credit to everyone whos games are on here. (Creator names are after the - on the title of the game.)", link: "/games/2048/" },
 
     { id: 0, title: "1v1 lol", link: "/games/1v1lol" },
     { id: 2, title: "1", link: "/games/1" },
